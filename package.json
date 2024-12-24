@@ -1,0 +1,26 @@
+{
+  "name": "hand_cursor",
+  "version": "1.0.0",
+  "description": "control mouse cursor with hand tracking",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeenLeibovici/Hand-Cursor.git"
+  },
+  "author": "Deen Leibovici",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeenLeibovici/Hand-Cursor/issues"
+  },
+  "homepage": "https://github.com/DeenLeibovici/Hand-Cursor#readme",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  },
+  "dependencies": {
+    "ml5": "^1.0.1",
+    "patch-package": "^8.0.0"
+  }
+}
